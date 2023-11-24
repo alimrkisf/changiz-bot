@@ -1,0 +1,2 @@
+# key_value = {"YYYY-MM-DD HH:MM" : "message"}
+{}
